@@ -2,7 +2,7 @@
 RewriteEngine on
 RewriteBase /
 
-RewriteCond %{REQUEST_URI} !^(/capim|/pedidos)$
+RewriteCond %{REQUEST_URI} !^(/capim|/pedidos|/.well-known)$
 RewriteCond %{REQUEST_URI} ^/$
 RewriteRule ^(.*)$ /SITE [NC,L]
 

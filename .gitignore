@@ -1,3 +1,10 @@
+SITE/wp-content/w3tc-config/
+SITE/wp-content/w3tc-config/
+SITE/wp-content/object-cache.php
+SITE/wp-content/db.php
+SITE/wp-content/advanced-cache.php 
+SITE/wp-content/object-cache.php 
+SITE/wp-content/cache
 *.log
 SITE/wp-config.php
 SITE/wp-content/advanced-cache.php
@@ -11,8 +18,8 @@ SITE/wp-content/wp-cache-config.php
 SITE/wp-content/plugins/hello.php
 
 SITE/.htaccess
-SITE//license.txt
-SITE//readme.html
+SITE/license.txt
+SITE/readme.html
 /sitemap.xml
 /sitemap.xml.gz
 
